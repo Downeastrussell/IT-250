@@ -1,8 +1,8 @@
-# Book 1 - Bangazon Orientation
+# Book 1 - IT242 & IT250
 
 This book builds a strong foundation in the syntax, data structures, and valuable methods available in the C# language. You will also strengthen your knowledge of data relationships through code and in a relational database system by learning SQL. You will be introduced to the concept and practice of writing tests to protect yourself, and your team, from dangerous code making it into production.
 
-## Chapters
+## Chapters 1-14(IT242)
 
 * Chapter 1 - [Installations](./chapters/INSTALLATIONS.md)
 * Chapter 2 - [Introduction to C#](./chapters/CSHARP_INTRO.md)
@@ -19,7 +19,7 @@ This book builds a strong foundation in the syntax, data structures, and valuabl
 * Chapter 13 - [Student Exercises - Part 3](./chapters/STUDENT_EXERCISES_INHERITANCE.md)
 * Chapter 14 - [Generics](./chapters/GENERICS_INTRO.md)
 
-> ## __Group Project__ - Trestlebridge Farms
+> ##  Chapters 15-23 IT250 - 
 
 > #### Let's Talk About C#
 
